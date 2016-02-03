@@ -8,3 +8,4 @@ app.use(express.static(process.argv[3]));
 app.listen(process.argv[2])
 
 // dalsia nova veci4ka ...uvidime ako to vezne 
+//komentar pre dominika
