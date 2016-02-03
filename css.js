@@ -6,3 +6,5 @@ app.use(express.static(process.argv[3]));
 
 //tu som pridal komentar a idem to comitnut
 app.listen(process.argv[2])
+
+// dalsia nova veci4ka ...uvidime ako to vezne 
